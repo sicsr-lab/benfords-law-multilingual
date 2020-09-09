@@ -1,1 +1,1 @@
-# benfords-law-natural-text
+# benfords-law-multilingual
